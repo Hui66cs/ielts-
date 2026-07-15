@@ -2,7 +2,7 @@
 本文旨在分享一下自己的雅思备考经验。作为一名四六级水平相对一般的学生，在系统备考接近一个月后也能取得雅思机考7.5的成绩。
 **需要说明的是，我备考期间几乎没有其他课程和学业压力，因此这套节奏未必适合只能利用课余时间准备的同学**
 
-![[image/a70c5264cb17219ab75f912ba6be7d39.png]]
+![](image/a70c5264cb17219ab75f912ba6be7d39.png)
 # 背景
 **我的成绩：总分 7.5**  
 **备考时间：约一个月，全职备考**  
@@ -39,10 +39,10 @@
 写作分为part1小作文和part2大作文，其中part2占比更大
 可以利用snipaste截屏固定工具截图，替换掉[雅思模拟训练](https://www.chinaielts.org/prepare/ielts-practice-tests/mocks-academic)写作部分的题目进行训练，这基本与真实雅思考试写作环境一致，有字数统计但不会有语法自动纠错。
 
-![[image/Pasted image 20260714200736.png]]
+![](image/Pasted image 20260714200736.png)
 作文建议先自己写一些再总结套路。这样效果更好，不要一开始就被套路约束
 写完作文后可以将题目一起给gpt评分，并让其在自己文章的基础上修改到目标分数水平，指出自己原本文章的不足之处，prompt可以加入这张图片，取自[b站](https://www.bilibili.com/video/BV1yPk4BXEcL/?spm_id_from=333.337.search-card.all.click&vd_source=5d334de71c0be727b9d28787c6cbc301)：
-![[image/Pasted image 20260714203003.png]]
+![](image/Pasted image 20260714203003.png)
 ## part 1
 主要分为动态图、静态图、地图类（前后变化）、流程图四种题型，每种题型有模板可以参考，套路性比较强，一般建议20min左右完成。结构比较固定，分为4个段落（按顺序）：
 - Introduction：介绍一下图表描述的是关于什么的信息，可借鉴题干
